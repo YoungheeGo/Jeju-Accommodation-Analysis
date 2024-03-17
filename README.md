@@ -25,3 +25,5 @@ The data topic modeling(LDA) the following figure is explaining the model.
 ![image](https://user-images.githubusercontent.com/77769026/198184901-eb42e501-fb57-411e-bb30-45019a3eed90.png)
 
 - 클라이언트를 완전 만족시켜버렸다~
+
+끝.
